@@ -1,6 +1,6 @@
 # Book-Management-System
 
-#  ------ task --------
+A simple implementation of Book management System in C programming lanaguage completed as a mini project.
 
 A Book Management System is required to efficiently organize and manage information about books. The system should support various operations, 
 including adding, removing, searching, updating, and displaying book records based on attributes such as Book ID, Book Name, Author Name, Price, and 
@@ -24,3 +24,5 @@ and rating, and access information about all the books in the database.
    The system should provide a feature to display the top 3 books based on price and rating, allowing users to see the highest-priced and highest-rated books in the collection.
 7) Display All Books:
    The system should offer the option to display details of all the books in the database, enabling users to access the complete list of books
+
+
